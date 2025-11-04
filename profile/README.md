@@ -12,7 +12,7 @@ I'm a developer focused on **[i'm , e.g. Back-end with Python and Go]**.
 
 ### Estatísticas do GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naylor-Services&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naylor-oficia&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens Mais Usadas
 
