@@ -1,14 +1,4 @@
-# Hello, I'm Jhonatan 👋 
 
-### About me
-
-I'm a developer focused on **[i'm , e.g. Back-end with Python and Go]**. 
-
-* 🔭 I'm currently working on: **[Your Current Project or Work]**
-* 🌱 I'm currently learning: **[Technology/Language]**
-* 💬 Ask me about: **[Subjects you master, e.g., JavaScript, React, REST APIs]**
-* 📫 How to find me: **[Your Email or LinkedIn]**
-* ⚡ Fun fact: **[Fun fact about you]**
 
 ### Estatísticas do GitHub
 
