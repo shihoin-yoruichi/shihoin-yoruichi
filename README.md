@@ -1,4 +1,8 @@
 # Hello, I'm Naylor 👋 
+### About me
+
+I'm a developer focused on **[ with C, Java]**. 
+
 
 <h2>Setup-Laboratory</h2>
 <h3>For you to contribute to projects</h3>
@@ -24,12 +28,6 @@ Branches:
 <a href="#">Termux</a>
 
 
-### About me
-
-I'm a developer focused on **[i'm , e.g. Back-end with C, C++ and Go]**. 
-
-🔭 I'm currently working on:
-<a href="github.com/naylor-lab/Sakaki">**[Sakaki]**</a>
 
 ### Estatísticas do GitHub
 
