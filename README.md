@@ -13,11 +13,6 @@ height="320">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naylor-lab&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### Linguagens Mais Usadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naylor-lab&layout=compact&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
 Branches:
 
 <a href="https://github.com/naylor-lab/">Arch-Linux</a>
@@ -27,3 +22,10 @@ Branches:
 <a href="https://github.com/naylor-lab/">Kali-Linux</a>
 
 <a href="https://github.com/naylor-lab/">Termux</a>
+
+
+### Linguagens Mais Usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naylor-lab&layout=compact&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
