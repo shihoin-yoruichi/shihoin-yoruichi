@@ -1,13 +1,3 @@
-
-
-### Estatísticas do GitHub
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naylor-lab&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-### Linguagens Mais Usadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naylor-lab&layout=compact&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <h2>Setup-Laboratory</h2>
 <h3>For you to contribute to projects</h3>
 
@@ -17,6 +7,15 @@ align="center"
 width="512" 
 height="320">
 </p>
+
+
+### Estatísticas do GitHub
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naylor-lab&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens Mais Usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naylor-lab&layout=compact&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Branches:
