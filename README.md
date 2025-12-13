@@ -20,12 +20,10 @@ height="320">
 
 Branches:
 
-<a href="https://github.com/naylor-lab/setup/blob/Arch-Linux/">Arch-Linux</a>
+<a href="https://github.com/naylor-lab/">Arch-Linux</a>
 
-<a href="#">Alpine Linux</a>
+<a href="https://github.com/naylor-lab/">Alpine Linux</a>
 
-<a href="https://github.com/naylor-lab/setup/tree/Debian-Linux">Debian</a>
+<a href="https://github.com/naylor-lab/">Kali-Linux</a>
 
-<a href="#">Kali-Linux</a>
-
-<a href="#">Termux</a>
+<a href="https://github.com/naylor-lab/">Termux</a>
