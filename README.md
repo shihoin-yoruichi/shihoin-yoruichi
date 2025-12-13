@@ -15,13 +15,13 @@ height="320">
 
 Branches:
 
-<a href="https://github.com/naylor-lab/">Arch-Linux</a>
+<a href="https://github.com/naylor-lab/Arch-Linux-Setup">Arch-Linux</a>
 
-<a href="https://github.com/naylor-lab/">Alpine Linux</a>
+<a href="https://github.com/naylor-lab/Alpine-Linux-Setup">Alpine Linux</a>
 
-<a href="https://github.com/naylor-lab/">Kali-Linux</a>
+<a href="https://github.com/naylor-lab/Kali-Linux-Setup">Kali-Linux</a>
 
-<a href="https://github.com/naylor-lab/">Termux</a>
+<a href="https://github.com/naylor-lab/Termux-Setup">Termux</a>
 
 
 ### Linguagens Mais Usadas
