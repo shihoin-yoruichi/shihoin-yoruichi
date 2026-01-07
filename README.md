@@ -9,23 +9,19 @@ height="320">
 </p>
 
 
-### Estatísticas do GitHub
+### Stats of GitHub
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naylor-lab&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Branches:
 
-<a href="https://github.com/naylor-lab/Arch-Linux-Setup">Arch-Linux</a>
+<a href="https://github.com/shihoin-yoruichi/SDebian">Debian-Linux</a>
 
-<a href="https://github.com/naylor-lab/Alpine-Linux-Setup">Alpine Linux</a>
-
-<a href="https://github.com/naylor-lab/Kali-Linux-Setup">Kali-Linux</a>
-
-<a href="https://github.com/naylor-lab/Termux-Setup">Termux</a>
+<a href="https://github.com/shihoin-yoruichi/STermux">Termux</a>
 
 
-### Linguagens Mais Usadas
+### Languages Usage
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naylor-lab&layout=compact&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shihoin-yoruichi&layout=compact&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
